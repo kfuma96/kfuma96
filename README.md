@@ -22,3 +22,11 @@ Here are some ideas to get you started:
 After graduated from the Faculty of Science and Engineering, Waseda University, joined a major IT company as a machine learning engineer. While still a university student, collaborated with various organizations, including leading domestic tech ventures, through freelance work, gaining experience in system development and data analysis. Also explored personal creative interests, such as electronic music production. To pursue the integration of technology and expression, founded 21 Digital, LLC.
 
 **連絡先 - Contact**: kishida-fuma@21-digital.co.jp
+
+## Certifications
+
+| Course Name                                                 | Institution | Certificate                                                                                          |
+| ----------------------------------------------------------- | ----------- | ---------------------------------------------------------------------------------------------------- |
+| Supervised Machine Learning: Regression and Classification  | Coursera    | ![QIXBXT2J2Z87](https://github.com/kfuma96/kfuma96/blob/main/certificates/Coursera_QIXBXT2J2Z87.png) |
+| Advanced Learning Algorithms                                | Coursera    | ![B4YFD9KSZV49](https://github.com/kfuma96/kfuma96/blob/main/certificates/Coursera_B4YFD9KSZV49.png) |
+| Unsupervised Learning, Recommenders, Reinforcement Learning | Coursera    | ![HKUIIZJUHS9Z](https://github.com/kfuma96/kfuma96/blob/main/certificates/Coursera_HKUIIZJUHS9Z.png) |
