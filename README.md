@@ -25,11 +25,11 @@ After graduated from the Faculty of Science and Engineering, Waseda University, 
 
 ## Certifications
 
-| Course Name                                                 | Institution | Certificate                                                                                          |
-| ----------------------------------------------------------- | ----------- | ---------------------------------------------------------------------------------------------------- |
-| Supervised Machine Learning: Regression and Classification  | Coursera    | ![QIXBXT2J2Z87](https://github.com/kfuma96/kfuma96/blob/main/certificates/Coursera_QIXBXT2J2Z87.png) |
-| Advanced Learning Algorithms                                | Coursera    | ![B4YFD9KSZV49](https://github.com/kfuma96/kfuma96/blob/main/certificates/Coursera_B4YFD9KSZV49.png) |
-| Unsupervised Learning, Recommenders, Reinforcement Learning | Coursera    | ![HKUIIZJUHS9Z](https://github.com/kfuma96/kfuma96/blob/main/certificates/Coursera_HKUIIZJUHS9Z.png) |
+| Course Name                                                 | Institution | Certificate                                                                                                     |
+| ----------------------------------------------------------- | ----------- | --------------------------------------------------------------------------------------------------------------- |
+| Supervised Machine Learning: Regression and Classification  | Coursera    | <img src="https://github.com/kfuma96/kfuma96/blob/main/certificates/Coursera_QIXBXT2J2Z87.png" width="340px" /> |
+| Advanced Learning Algorithms                                | Coursera    | <img src="https://github.com/kfuma96/kfuma96/blob/main/certificates/Coursera_B4YFD9KSZV49.png" width="340px" /> |
+| Unsupervised Learning, Recommenders, Reinforcement Learning | Coursera    | <img src="https://github.com/kfuma96/kfuma96/blob/main/certificates/Coursera_HKUIIZJUHS9Z.png" width="340px" /> |
 
 ## Awards
 
