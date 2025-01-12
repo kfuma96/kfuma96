@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ## kfuma96
 
-早稲田大学理工学部を卒業後、大手 IT 企業 に機械学習エンジニアとして新卒入社。大学在学中から、コンピュータ自体への関心を元に、国内メガベンチャー企業などとの業務委託を通じて、システム開発やデータ分析、また、電子音楽の創作といった多岐にわたる分野で自己探求を続ける。技術と表現の融合を模索するため[合同会社ツーワンデジタル](https://21-digital-jp.github.io/ja/index.html)を設立。
+早稲田大学理工学部を卒業後、大手 IT 企業 に機械学習エンジニアとして新卒入社。大学在学中から、コンピュータ自体への関心を元に、国内メガベンチャー企業などとの業務委託を通じて、システム開発やデータ分析、また、電子音楽の創作といった多岐にわたる分野で自己探求を続ける。技術と表現の融合を模索するため合同会社ツーワンデジタルを設立。
 
-After graduated from the Faculty of Science and Engineering, Waseda University, joined a major IT company as a machine learning engineer. While still a university student, collaborated with various organizations, including leading domestic tech ventures, through freelance work, gaining experience in system development and data analysis. Also explored personal creative interests, such as electronic music production. To pursue the integration of technology and expression, founded [21 Digital, LLC](https://21-digital-jp.github.io/en/index.html).
+After graduated from the Faculty of Science and Engineering, Waseda University, joined a major IT company as a machine learning engineer. While still a university student, collaborated with various organizations, including leading domestic tech ventures, through freelance work, gaining experience in system development and data analysis. Also explored personal creative interests, such as electronic music production. To pursue the integration of technology and expression, founded 21 Digital, LLC.
 
 **連絡先 - Contact**: kishida-fuma@21-digital.co.jp
