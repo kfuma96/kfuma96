@@ -23,7 +23,7 @@ After graduated from the Faculty of Science and Engineering, Waseda University, 
 
 **連絡先 - Contact**: kishida-fuma@21-digital.co.jp
 
-## Certifications
+### Certifications
 
 | Course Name                                                 | Institution | Certificate                                                                                                     |
 | ----------------------------------------------------------- | ----------- | --------------------------------------------------------------------------------------------------------------- |
@@ -31,11 +31,9 @@ After graduated from the Faculty of Science and Engineering, Waseda University, 
 | Advanced Learning Algorithms                                | Coursera    | <img src="https://github.com/kfuma96/kfuma96/blob/main/certificates/Coursera_B4YFD9KSZV49.png" width="340px" /> |
 | Unsupervised Learning, Recommenders, Reinforcement Learning | Coursera    | <img src="https://github.com/kfuma96/kfuma96/blob/main/certificates/Coursera_HKUIIZJUHS9Z.png" width="340px" /> |
 
-## Awards
+### Awards
 
-- 株式会社サイバーエージェント (CyberAgent, Inc.)
-  [アドテクコンペ ロジック賞 (AdTech Competition Logic Award)](https://developers.cyberagent.co.jp/blog/archives/18636/) 受賞（2018 年 9 月）
+- 株式会社サイバーエージェント
+  [アドテクコンペ ロジック賞](https://developers.cyberagent.co.jp/blog/archives/18636/) 受賞（2018 年 9 月）
 
   異なる複数の機械学習アルゴリズムをアンサンブルし、ロバストな CTR（Click-Through Rate）予測モデルを開発。
-
-  Developed a CTR (Click-Through Rate) prediction model with generalization performance through the ensemble of multiple machine learning algorithms.
