@@ -30,3 +30,12 @@ After graduated from the Faculty of Science and Engineering, Waseda University, 
 | Supervised Machine Learning: Regression and Classification  | Coursera    | ![QIXBXT2J2Z87](https://github.com/kfuma96/kfuma96/blob/main/certificates/Coursera_QIXBXT2J2Z87.png) |
 | Advanced Learning Algorithms                                | Coursera    | ![B4YFD9KSZV49](https://github.com/kfuma96/kfuma96/blob/main/certificates/Coursera_B4YFD9KSZV49.png) |
 | Unsupervised Learning, Recommenders, Reinforcement Learning | Coursera    | ![HKUIIZJUHS9Z](https://github.com/kfuma96/kfuma96/blob/main/certificates/Coursera_HKUIIZJUHS9Z.png) |
+
+## Awards
+
+- 株式会社サイバーエージェント (CyberAgent, Inc.)
+  [アドテクコンペ ロジック賞 (AdTech Competition Logic Award)](https://developers.cyberagent.co.jp/blog/archives/18636/) 受賞（2018 年 9 月）
+
+  異なる複数の機械学習アルゴリズムをアンサンブルし、ロバストな CTR（Click-Through Rate）予測モデルを開発。
+
+  Developed a CTR (Click-Through Rate) prediction model with generalization performance through the ensemble of multiple machine learning algorithms.
