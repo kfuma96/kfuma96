@@ -23,11 +23,11 @@ After graduated from the Faculty of Science and Engineering, Waseda University, 
 
 ### Certifications
 
-| Course Name                                                 | Institution | Certificate                                                                                                     |
-| ----------------------------------------------------------- | ----------- | --------------------------------------------------------------------------------------------------------------- |
-| Supervised Machine Learning: Regression and Classification  | Coursera    | <img src="https://github.com/kfuma96/kfuma96/blob/main/certificates/Coursera_QIXBXT2J2Z87.png" width="320px" /> |
-| Advanced Learning Algorithms                                | Coursera    | <img src="https://github.com/kfuma96/kfuma96/blob/main/certificates/Coursera_B4YFD9KSZV49.png" width="320px" /> |
-| Unsupervised Learning, Recommenders, Reinforcement Learning | Coursera    | <img src="https://github.com/kfuma96/kfuma96/blob/main/certificates/Coursera_HKUIIZJUHS9Z.png" width="320px" /> |
+| Course Name                                                 | Institution | Certificate                                                                                                            |
+| ----------------------------------------------------------- | ----------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Supervised Machine Learning: Regression and Classification  | Coursera    | <img src="https://github.com/kfuma96/kfuma96/blob/main/images/certificates/Coursera_QIXBXT2J2Z87.png" width="320px" /> |
+| Advanced Learning Algorithms                                | Coursera    | <img src="https://github.com/kfuma96/kfuma96/blob/main/images/certificates/Coursera_B4YFD9KSZV49.png" width="320px" /> |
+| Unsupervised Learning, Recommenders, Reinforcement Learning | Coursera    | <img src="https://github.com/kfuma96/kfuma96/blob/main/images/certificates/Coursera_HKUIIZJUHS9Z.png" width="320px" /> |
 
 ### Awards
 
