@@ -29,7 +29,7 @@ Thinker
 
 After I graduated from the Faculty of Science and Engineering, Waseda University, I joined a major IT company in Japan as an engineer. There, I engaged in the development and operation of machine learning systems, and contributed as a data analyst and engineer to data-driven measures such as effectiveness measurement and batch application development, leveraging a big data platform with trillions of records.
 
-While in university, my interest in computers led me to participate in student organizations and work with various companies, including leading domestic tech ventures, through freelance projects. With these opportunities, I gained experience in system development and data analysis while also immersing myself in diverse communities and cultures, such as electronic music production on the internet.
+While in university, my interest in computers led me to participate in student organizations and work with various companies, including leading domestic tech ventures, through freelance projects. With these opportunities, I gained initial experience in system development and data analysis while also immersing myself in diverse communities and cultures, such as electronic music production on the internet.
 
 To pursue the integration of technology and expression, I founded 21 Digital, LLC.
 
