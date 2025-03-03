@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 県立佐倉高校・早稲田大学理工学部を卒業後、大手 IT 企業にエンジニアとして新卒入社。機械学習を活用したシステムの開発・運用に従事した後、データアナリスト・エンジニアとして効果測定・バッチ開発など、幅広く AI・数兆行を超えるビッグデータ基盤の活用に携わる。
 
-大学在学時から、コンピュータ自体への関心を元に、学生団体への参加・国内メガベンチャー企業などとの業務委託を通じて、システム開発・データ分析、また、電子音楽の創作といった複数のコミュニティ・文化に出入りする。
+大学在学時から、コンピュータ自体への関心を元に、学生団体への参加・国内メガベンチャー企業などとの業務委託を通じて、システム開発・データ分析、また、インターネットでの電子音楽の創作といった複数のコミュニティ・文化に出入りする。
 
 技術と表現の融合を模索するため合同会社ツーワンデジタルを設立。
 
@@ -29,7 +29,7 @@ Thinker
 
 After I graduated from the Faculty of Science and Engineering, Waseda University, I joined a major IT company in Japan as an engineer. There, I engaged in the development and operation of machine learning systems, and contributed as a data analyst and engineer to data-driven measures such as effectiveness measurement and batch application development, leveraging a big data platform with trillions of records.
 
-While in university, my interest in computers led me to participate in student organizations and collaborate with various companies, including leading domestic tech ventures, through freelance work. With these opportunities, I gained experience in system development and data analysis while also immersing myself in diverse communities and cultures, such as electronic music production.
+While in university, my interest in computers led me to participate in student organizations and work with various companies, including leading domestic tech ventures, through freelance projects. With these opportunities, I gained experience in system development and data analysis while also immersing myself in diverse communities and cultures, such as electronic music production on the internet.
 
 To pursue the integration of technology and expression, I founded 21 Digital, LLC.
 
