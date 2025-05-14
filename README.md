@@ -37,7 +37,7 @@ To explore the integration of digital technology and artistic expression, I foun
 
 ### Awards
 
-- CyberAgent, Inc. — [Logic Award at Ad Tech Competition](https://developers.cyberagent.co.jp/blog/archives/18636/) (September 2018)
+- [Logic Award at Ad Tech Competition](https://developers.cyberagent.co.jp/blog/archives/18636/), CyberAgent, Inc. (Sep 2018)
 
   Developed a robust click-through rate (CTR) prediction model by ensembling multiple machine learning algorithms.
 
