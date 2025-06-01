@@ -17,11 +17,17 @@ Here are some ideas to get you started:
 
 ## kfuma96
 
-After I graduated from the Faculty of Science and Engineering, Waseda University, I joined a major IT company in Japan as an engineer. There, I engaged in the development and operation of machine learning systems, and contributed as a data analyst and engineer to data-driven measures such as effectiveness measurement and batch application development, leveraging a big data platform with trillions of records.
+After I graduated from the [Faculty of Science and Engineering, Waseda University](https://www.waseda.jp/fsci/en/), I joined a major IT company in Japan as an engineer. There, I engaged in the development and operation of machine learning systems, and contributed as a data analyst and engineer to data-driven measures such as effectiveness measurement and batch application development, leveraging a big data platform with trillions of records.
 
 While in university, my interest in computers led me to participate in student organizations and work with various companies, including leading domestic tech company, through freelance projects. With these opportunities, I gained initial experience in system development and data analysis. And I also immersed myself in electronic music production on the internet, which developed a foundation for my perspective as a creator.
 
-To explore the integration of digital technology and artistic expression, I founded 21 Digital, LLC.
+To explore the integration of digital technology and artistic expression, I founded [21 Digital, LLC](https://21-digital-jp.github.io/en/).
+
+### Work Experience
+
+- Machine Learning Engineer, [DMM.com](https://www.dmm.com/) (Apr 2019 – Mar 2021)
+- Data Analyst / Data Engineer, DMM.com (Apr 2023 – Present)
+- founder CEO, 21 Digital (Aug 2024 – Present)
 
 ### Certificates
 
@@ -31,7 +37,7 @@ To explore the integration of digital technology and artistic expression, I foun
 
 ### Awards
 
-- CyberAgent, Inc. — [Logic Award at Ad Tech Competition](https://developers.cyberagent.co.jp/blog/archives/18636/) (September 2018)
+- [Logic Award at Ad Tech Competition](https://developers.cyberagent.co.jp/blog/archives/18636/), CyberAgent, Inc. (Sep 2018)
 
   Developed a robust click-through rate (CTR) prediction model by ensembling multiple machine learning algorithms.
 
