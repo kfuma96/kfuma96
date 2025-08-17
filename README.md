@@ -26,13 +26,20 @@ To explore the integration of digital technology and artistic expression, I foun
 ### Education
 - [Sakura High School, Chiba Prefecture](https://cms2.chiba-c.ed.jp/sakura-h/ENGLISH) (Mar 2015)
 - Bachelor of Engineering, [Department of Applied Physics, School of Advanced Science and Engineering, Waseda University](https://www.phys.waseda.ac.jp/) (Mar 2019)
+  - Researched single-photon generation for quantum computing from a theoretical perspective.
 - Department of Pure and Applied Physics, Graduate School of Advanced Science and Engineering, Waseda University (Apr 2019 – Sep 2020, left)
 
 ### Work Experience
 
 - Machine Learning Engineer, [DMM.com](https://www.dmm.com/) (Apr 2019 – Mar 2021)
-- Data Analyst / Data Engineer, DMM.com (Apr 2023 – Present)
+  - Conducted a PoC for a deep learning-based system for near real-time customer issue resolution.
+- Data Analyst / Data Engineer, DMM.com (Apr 2023 – Jul 2025)
+  - Conducted A/B tests with bias-aware group assignment, KPI measurement, and effectiveness analysis.
+  - Evaluated a machine learning product through online testing and effectiveness analysis.
+  - Designed, developed, and operated systems to deliver internal data to external partners.
+  - Designed, developed, and operated data systems to support business divisions.
 - founder CEO, [21 Digital](https://21-digital-jp.github.io/en/) (Aug 2024 – Present)
+  - Collaborating with startups on technically advanced projects.
 
 ### Certificates
 
@@ -43,9 +50,8 @@ To explore the integration of digital technology and artistic expression, I foun
 ### Awards
 
 - [Logic Award at Ad Tech Competition](https://developers.cyberagent.co.jp/blog/archives/18636/), CyberAgent, Inc. (Sep 2018)
-
-  Developed a robust click-through rate (CTR) prediction model by ensembling multiple machine learning algorithms.
+  - Developed a robust click-through rate (CTR) prediction model by ensembling multiple machine learning algorithms.
 
 ### Contact
 
-kishida-fuma@21-digital.co.jp
+- kishida-fuma@21-digital.co.jp
