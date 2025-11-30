@@ -38,7 +38,7 @@ To explore the integration of digital technology and artistic expression, I foun
   - Evaluation of a machine learning product through online testing and effectiveness analysis.
   - Design, development, and operation of systems to deliver internal data to external partners.
   - Design, development, and operation of data systems to support business divisions.
-- founder CEO, [21 Digital](https://21-digital-jp.github.io/en/) (Aug 2024 – Present)
+- founder CEO, [21 Digital](https://21-digital.github.io/en/) (Aug 2024 – Present)
   - Collaborations with startups on technically advanced projects.
   - Production of an AI-generated concept video for an association event.
 
